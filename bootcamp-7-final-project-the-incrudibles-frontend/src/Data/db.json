@@ -1,0 +1,59 @@
+{
+  "responses": [
+    {
+      "id": 44,
+      "isEmployed": "true",
+      "techRole": "true",
+      "currentSalary": "18000",
+      "currentEmployer": "Gymshark",
+      "lengthOfService": "0-3 months",
+      "currentRole": "Junior back end engineer",
+      "currentTechStack": "JavaScript, TypeScript, Java, Node, React, Redis, AWS, MongoDB",
+      "jobSatisfaction": 2
+    },
+    {
+      "id": 45,
+      "isEmployed": "true",
+      "techRole": "true",
+      "currentSalary": "22000",
+      "currentEmployer": "RWG",
+      "lengthOfService": "3-6 months",
+      "currentRole": "developer",
+      "currentTechStack": "Java, Redis, APIGateway, MongoDB, ",
+      "jobSatisfaction": "4"
+    },
+    {
+      "isEmployed": "jh",
+      "techRole": "hjvb",
+      "currentSalary": "jhv",
+      "currentEmployer": "kv",
+      "lengthOfService": "kjv",
+      "currentRole": "khj",
+      "currentTechStack": "vkhj",
+      "jobSatisfaction": "vkjh",
+      "id": 46
+    },
+    {
+      "isEmployed": "jh",
+      "techRole": "hjvb",
+      "currentSalary": "jhv",
+      "currentEmployer": "kv",
+      "lengthOfService": "kjv",
+      "currentRole": "khj",
+      "currentTechStack": "vkhj",
+      "jobSatisfaction": "vkjh",
+      "id": 47
+    },
+    {
+      "id": 1,
+      "isEmployed": null,
+      "techRole": "jhb",
+      "currentSalary": "kjb",
+      "currentEmployer": "jkb",
+      "lengthOfService": "kjb",
+      "currentRole": "kjb",
+      "currentTechStack": "kjb",
+      "jobSatisfaction": "kjb"
+    }
+  ]
+}
